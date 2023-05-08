@@ -3,6 +3,11 @@
 
 This is my Library management system
 
-https://github.com/Veera-devp/library-management-system/tree/backend
-https://github.com/Veera-devp/library-management-system/tree/frontend
+
+## Project branches
+
+ - [Frontend](https://github.com/Veera-devp/library-management-system/tree/frontend)
+ - [Backend](https://github.com/Veera-devp/library-management-system/tree/backend)
+
+
 
